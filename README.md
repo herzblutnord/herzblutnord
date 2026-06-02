@@ -1,6 +1,6 @@
 # Hi, I'm Valentin
 
-Computer Science student at **DHBW Karlsruhe**, graduating soon,
+Computer Science student at **DHBW Karlsruhe** - graduating soon,  
 building backend services, cross-platform apps, and self-hosted Linux infrastructure.
 
 <p>
