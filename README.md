@@ -36,4 +36,4 @@ I build practical software around REST APIs, mobile/web frontends, databases, au
 
 ## Current Focus
 
-Finishing my Computer Science degree and building a portfolio around backend development, mobile/web apps, and reliable Linux-based services.
+Finishing my Computer Science degree and building a portfolio.
