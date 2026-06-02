@@ -36,5 +36,5 @@ and web hosting - configured, secured, and maintained end-to-end.
 
 ## Currently
 
-Finishing my Computer Science degree and looking for a full-time position.
+Finishing my Computer Science degree and looking for a full-time position.  
 Open to frontend, backend, platform-adjacent, or infrastructure-leaning software roles and whatever else looks interesting.
