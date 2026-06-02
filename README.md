@@ -17,7 +17,7 @@ building backend services, cross-platform apps, and self-hosted Linux infrastruc
 ## Tech & Skills
 
 **Backend** - Java, Spring Boot, REST APIs, JWT authentication, Flyway, Maven, JUnit  
-**Frontend** - Flutter / Dart, Android, PWA / web, HTML / CSS / SCSS
+**Frontend** - Flutter / Dart, Android, PWA / web, HTML / CSS / SCSS  
 **Database** - PostgreSQL  
 **Infrastructure** - Linux (Ubuntu, Arch), nginx, systemd, bash, server administration  
 **Security & Networking** - SSH, Fail2Ban, WireGuard, firewall configuration, TLS / Certbot, service monitoring  
