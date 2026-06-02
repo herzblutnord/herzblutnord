@@ -20,8 +20,8 @@ I build practical software around REST APIs, mobile/web frontends, databases, au
 * **Java / Spring Boot** for backend development
 * **Flutter / Dart** for Android and web/PWA apps
 * **PostgreSQL**, REST APIs, JWT authentication, Flyway
-* **Linux servers**, nginx, systemd, WireGuard
-* Git/GitHub workflows, documentation, deployment, and troubleshooting
+* **Linux**, ubuntu, arch, nginx, systemd, bash
+* Git/GitHub CI/CD workflows, documentation, deployment, and troubleshooting
 
 ## Selected Work
 
