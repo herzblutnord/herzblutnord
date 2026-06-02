@@ -8,8 +8,6 @@ building backend services, cross-platform apps, and self-hosted Linux infrastruc
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
@@ -39,4 +37,4 @@ and web hosting - configured, secured, and maintained end-to-end.
 ## Currently
 
 Finishing my Computer Science degree and looking for a full-time position.
-Open to backend, platform-adjacent, or infrastructure-leaning software roles.
+Open to frontend, backend, platform-adjacent, or infrastructure-leaning software roles and whatever else looks interesting.
