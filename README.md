@@ -20,7 +20,7 @@ building backend services, cross-platform apps, and self-hosted Linux infrastruc
 **Frontend** - Flutter / Dart, Android, PWA / web, HTML / CSS / SCSS
 **Database** - PostgreSQL  
 **Infrastructure** - Linux (Ubuntu, Arch), nginx, systemd, bash, server administration  
-**Security & Networking** - SSH hardening, Fail2Ban, WireGuard, firewall configuration, TLS / Certbot, reverse proxies, service monitoring  
+**Security & Networking** - SSH, Fail2Ban, WireGuard, firewall configuration, TLS / Certbot, service monitoring  
 **Tooling** - Git, GitHub/GitLab, CI/CD pipelines, AI-assisted development & task automation (Codex)  
 **Some experience with** — Python, Node.js, C# / .NET Core  
 **Microsoft / Azure** — Azure AD / Entra ID, Intune (device & app deployment), Office 365 administration, PowerShell  
